@@ -7,17 +7,17 @@ Welcome to the NFT Social Marketplace, a decentralized application built using N
 
 ## Features
 
-- **Connect Wallet:** Users can connect their wallets to the platform using tools like MetaMask.
-- **User Registration:** Create an account on the platform with basic information (name, bio, profile picture).
-- **Friendship:** Users can become friends with others on the platform.
-- **Friend Requests:** Implement a mechanism for sending and accepting friend requests.
-- **NFT Ownership Logic:** Users need to have a certain number of friends to unlock features and post on the platform.
-- **NFT as Profile Picture:** Users can set their NFTs as profile pictures.
-- **ERC-20 Tokens:** Integration of ERC-20 tokens for transactions.
-- **ERC-721 Tokens:** NFTs are implemented using ERC-721 standard.
-- **TopWeb3 NFT:** Users with 5 or more friends receive a special NFT (TOPWEB3) to unlock additional features.
-- **Post Creation:** Users with TOPWEB3 NFT can write posts.
-- **Commenting:** Users with TOPWEB3 NFT can comment on other posts.
+- Connect Wallet: Users can connect their wallets to the platform using tools like MetaMask.
+- User Registration: Create an account on the platform with basic information (name, bio, profile picture).
+- Friendship: Users can become friends with others on the platform.
+- Friend Requests: Implement a mechanism for sending and accepting friend requests.
+- NFT Ownership Logic: Users need to have a certain number of friends to unlock features and post on the platform.
+- NFT as Profile Picture: Users can set their NFTs as profile pictures.
+- ERC-20 Tokens: Integration of ERC-20 tokens for transactions.
+- ERC-721 Tokens: NFTs are implemented using ERC-721 standard.
+- TopWeb3 NFT: Users with 5 or more friends receive a special NFT (TOPWEB3) to unlock additional features.
+- Post Creation: Users with TOPWEB3 NFT can write posts.
+- Commenting: Users with TOPWEB3 NFT can comment on other posts.
 
 ## Project Structure
 
