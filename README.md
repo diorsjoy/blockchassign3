@@ -1,4 +1,4 @@
-Certainly! Based on the chat, here's a README template for your NFT Marketplace dApp:
+
 
 ```markdown
 # Blockchain Social Platform
